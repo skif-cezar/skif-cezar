@@ -25,10 +25,10 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="redux" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" title="material" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original-wordmark.svg" title="storybook" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" title="storybook" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="vitejs" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original-wordmark.svg" title="eslint" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" title="eslint" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" width="40" height="40" />&nbsp;
 
 ### My stat
