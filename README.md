@@ -39,8 +39,18 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skif-cezar&theme=github_dark" alt=""/>
 
   
-[![](https://raw.githubusercontent.com/skif-cezar/skif-cezar/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/skif-cezar/skif-cezar/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/skif-cezar/skif-cezar/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/skif-cezar/skif-cezar/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/skif-cezar/skif-cezar/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### 📊 Моя статистика GitHub
+
+![Profile Details](./profile-summary-card-output/github_dark/0-profile-details.svg)
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-top-languages.svg" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" />
+</p>
 
 </div>
